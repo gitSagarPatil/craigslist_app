@@ -21,6 +21,7 @@
 .idea/**/dynamic.xml
 .idea/**/uiDesigner.xml
 .idea/**/dbnavigator.xml
+.sqlite3
 
 # Gradle
 .idea/**/gradle.xml
@@ -76,6 +77,7 @@ fabric.properties
 __pycache__/
 *.py[cod]
 *$py.class
+.pyc
 
 # C extensions
 *.so
