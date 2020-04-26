@@ -24,9 +24,9 @@ TEMPLATE_DIR = os.path.join(BASE_DIR, 'templates')
 SECRET_KEY = 'q^az0se$(l#9dl#l3ppb!zo#k4ym4$3xwn$xhh!n*%a*omfyje'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['project-craigslist.herokuapp.com', '127.0.0.1']
 
 
 # Application definition
